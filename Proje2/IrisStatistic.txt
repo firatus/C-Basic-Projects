@@ -1,0 +1,22 @@
+Features Means:
+SepalLengthMean: 5.843335
+SepalWidthMean: 3.054000
+PetalLengthMean: 3.758667
+PetalWidthMean: 1.198667
+------------------------------------------------------------
+Features Variances:
+SepalLengthVar: 0.681122
+SepalWidthVar: 0.186751
+PetalLengthVar: 3.092424
+PetalWidthVar: 0.578532
+------------------------------------------------------------
+Features Correlation
+CorrelationSepalLengthSepalWidth: -0.109366
+CorrelationSepalLengthPetalLength: 0.871764
+CorrelationSepalLengthPetalWidth: 0.817963
+------------------------------------------------------------
+Covariance Matrix:
+0.681122	-0.039007	1.265191	0.513458	
+-0.039007	0.186751	-0.319568	-0.117195	
+1.265191	-0.319568	3.092424	1.287745	
+0.513458	-0.117195	1.287745	0.578532	
